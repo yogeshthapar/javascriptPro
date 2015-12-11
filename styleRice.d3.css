@@ -1,0 +1,29 @@
+#chart rect{
+  fill: #4aaeea;
+}
+
+#chart text{
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+.heading{
+  text-align: center;
+  color: black;
+}
+.axis text{
+  font: 10px sans-serif;
+}
+
+.axis path, .axis line{
+  fill: none;
+  stroke : #000000;
+  shape-rendering: crispEdges;
+}
+
+body{
+
+  color : #eaeaea;
+  padding-top: 40px;
+  padding-left: 270px;
+}

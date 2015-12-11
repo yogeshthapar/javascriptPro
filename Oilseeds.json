@@ -1,0 +1,62 @@
+[
+    {
+        "Quantity": "Kharif",
+        "Year": "20.791"
+    },
+    {
+        "Quantity": "Rabi",
+        "Year": "10.152"
+    },
+    {
+        "Quantity": "Groundnut",
+        "Year": "4.695"
+    },
+    {
+        "Quantity": "Groundnut Kharif",
+        "Year": "3.187"
+    },
+    {
+        "Quantity": "Groundnut Rabi",
+        "Year": "1.508"
+    },
+    {
+        "Quantity": "Castorseed Kharif",
+        "Year": "1.964"
+    },
+    {
+        "Quantity": "Sesamun Kharif",
+        "Year": "0.685"
+    },
+    {
+        "Quantity": "Nigerseed Kharif",
+        "Year": "0.102"
+    },
+    {
+        "Quantity": "Rapeseed and Mustard Rabi",
+        "Year": "8.029"
+    },
+    {
+        "Quantity": "Linseed Rabi",
+        "Year": "0.149"
+    },
+    {
+        "Quantity": "Safflower Rabi",
+        "Year": "0.109"
+    },
+    {
+        "Quantity": "Sunflower",
+        "Year": "0.544"
+    },
+    {
+        "Quantity": "Sunflower Kharif",
+        "Year": "0.187"
+    },
+    {
+        "Quantity": "Sunflower Rabi",
+        "Year": "0.357"
+    },
+    {
+        "Quantity": "Soyabean Kharif",
+        "Year": "14.666"
+    }
+]
